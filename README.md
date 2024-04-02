@@ -1,4 +1,4 @@
-ri## Bem-vindo(a) ao perfil de Beatrice 😁
+## Bem-vindo(a) ao perfil de Beatrice 😁
 
  <div>
    <a href="https://github.com/Eymirith">
